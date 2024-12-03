@@ -1,4 +1,4 @@
-# Express Js With Typescript Starter KIT 🙌
+# QuickChat - Scalable Chat Application using top-notch technologies 🙌
 
 ## After cloning run the below command to run the project
 
